@@ -23,9 +23,8 @@ Using **Python** for data preprocessing and **Power BI** for visualization, the 
 * Python
 * Pandas
 * NumPy
-* Jupyter Notebook
+* VS Code
 * Power BI
-* Git
 * GitHub
 
 ---
