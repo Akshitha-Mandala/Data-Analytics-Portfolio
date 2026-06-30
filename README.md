@@ -22,7 +22,7 @@ An end-to-end HR Analytics project focused on understanding employee attrition, 
 * Python
 * Pandas
 * NumPy
-* Jupyter Notebook
+* VS Code
 * Power BI
 
 ### Skills
@@ -48,7 +48,7 @@ A financial analytics project that analyzes cryptocurrency performance and portf
 * Python
 * Pandas
 * NumPy
-* Jupyter Notebook
+* VS Code
 * Power BI
 
 ### Skills
@@ -68,7 +68,7 @@ A financial analytics project that analyzes cryptocurrency performance and portf
 * Pandas
 * NumPy
 * Power BI
-* Jupyter Notebook
+* VS Code
 * Git
 * GitHub
 
