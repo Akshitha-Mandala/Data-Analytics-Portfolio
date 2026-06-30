@@ -23,9 +23,8 @@ The project combines **Python** for data preprocessing and **Power BI** for inte
 * Python
 * Pandas
 * NumPy
-* Jupyter Notebook
+* VS Code
 * Power BI
-* Git
 * GitHub
 
 ---
