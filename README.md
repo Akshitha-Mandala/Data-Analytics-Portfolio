@@ -69,7 +69,6 @@ A financial analytics project that analyzes cryptocurrency performance and portf
 * NumPy
 * Power BI
 * VS Code
-* Git
 * GitHub
 
 ---
